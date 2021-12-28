@@ -1,0 +1,20 @@
+Software being used:
+
+PyCharm 2021.3
+Anaconda3 2021.11 Windows x86 64
+NVIDIA GeForce Experience 3.24.0.126
+NVIDIA CUDA 11.2.2
+NVIDIA cuDNN 8.1.0
+HDF5 1.12.1
+
+Python Modules
+Python 3.9
+TensorFlow 2.7.0
+SKLearn 1.0.2
+matplotlib 3.5.1
+opencv2-python 4.5.4.60
+
+Hardware:
+NVIDIA RTX 3080
+
+Training data pulled from https://www.kaggle.com/c/dogs-vs-cats/data

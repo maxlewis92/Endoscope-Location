@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# H5 Training Data is LFS
+*.h5 filter=lfs diff=lfs merge=lfs -text
